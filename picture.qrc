@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>一開始.jpg</file>
+        <file>bg.png</file>
+        <file>被打.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>新鼓~.png</file>
+        <file>新2.png</file>
+        <file>鼓3.png</file>
+        <file>鼓4.png</file>
+    </qresource>
+</RCC>
